@@ -22,5 +22,4 @@ function capitalize(word) {
       </li>
     </ul>
   </nav>
-  <pre>{{ router }}</pre>
 </template>
