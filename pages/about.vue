@@ -4,5 +4,10 @@
 <template>
   <AppMain>
     <p>About Page</p>
+
   </AppMain>
 </template>
+
+<style>
+
+</style>
