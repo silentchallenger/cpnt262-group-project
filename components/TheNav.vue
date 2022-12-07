@@ -27,7 +27,7 @@ function capitalize(word) {
     <nav class="bg-slate-300 text-black text-xl font-bold">
       <ul :class="showMenu ? 'inline' : 'hidden'" class="md:flex md:justify-evenly">
         <li v-for="route in mainRoutes" :key="route.id">
-          <NuxtLink :to="route.path" class="block p-4 text-center hover:text-white hover:bg-black">
+          <NuxtLink :to="route.path" class="block p-4 text-center hover:text-white hover:bg-black" active-class="bg-red-200">
             {{ capitalize(route.name) }}
           </NuxtLink>
         </li>
