@@ -3,7 +3,8 @@ title: Black Keyboard
 description: This is a black keyboard
 ---
 
-## This is the black keybord
+[Black Keyboard](products/b-kb)
+
 
 Price: $100
 ![image](/img/black-keyboard.jpg)

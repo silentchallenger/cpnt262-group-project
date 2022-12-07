@@ -3,7 +3,7 @@ title: RGB Keyboard
 description: This is a RGB keyboard
 ---
 
-## This is the RGB keybord
+[RGB Keyboard](products/rbg-kb)
 
 Price: $100
 ![image](/img/rgb-keyboard.jpg)

@@ -3,7 +3,7 @@ title: Teal Keyboard
 description: This is a teal keyboard
 ---
 
-## This is the teal keybord
+[Teal Keyboard](products/t-kb)
 
 Price: $100
 ![image](/img/teal-keyboard.jpg)
