@@ -4,7 +4,7 @@
 
 <template>
   <AppMain>
-    <p>Black Keyboard</p>
-    <nuxt-img src="/img/black-keyboard.jpg" class="justify-center"/>
+    <p class="text-2xl text-white text-center m-3">Black Keyboard</p>
+    <nuxt-img src="/img/black-keyboard.jpg" class="h-60 mt-10"/>
   </AppMain>
 </template>

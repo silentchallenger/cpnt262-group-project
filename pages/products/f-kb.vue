@@ -4,7 +4,7 @@
 
 <template>
   <AppMain>
-    <h1>Fish Keyboard</h1>
-    <nuxt-img src="/img/fish-keyboard.jpg" class="justify-center"/>
+    <h1 class="text-2xl text-white text-center m-3">Fish Keyboard</h1>
+    <nuxt-img src="/img/fish-keyboard.jpg" class="h-60 mt-10"/>
   </AppMain>
 </template>
