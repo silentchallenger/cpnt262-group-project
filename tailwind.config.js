@@ -1,5 +1,12 @@
 module.exports = {
   theme: {
-    extend: {}
+    extend: {
+      width: {
+      '400': '400px',
+    },
+    height: {
+      '425': '425px',
+    }
+  }
   },
 }

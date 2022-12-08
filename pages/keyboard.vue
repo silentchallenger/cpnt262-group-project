@@ -17,10 +17,8 @@
   </AppMain>
 </template>
 
-
-
 <style>
-img {
+p img {
   height: 400px;
   width: 400px;
 }
