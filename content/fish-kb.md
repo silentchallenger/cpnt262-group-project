@@ -3,7 +3,7 @@ title: Fish Keyboard
 description: This is a fish keyboard
 ---
 
-[Fish Keyboard](products/f-kb)
+# Fish Keyboard
 
 Price: $100
 ![image](/img/fish-keyboard.jpg)
