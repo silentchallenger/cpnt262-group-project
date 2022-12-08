@@ -5,6 +5,6 @@
 <template>
   <AppMain>
     <h1>Fish Keyboard</h1>
-    <img src="/img/fish-keyboard.jpg" alt="">
+    <nuxt-img src="/img/fish-keyboard.jpg" />
   </AppMain>
 </template>

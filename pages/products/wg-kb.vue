@@ -5,6 +5,6 @@
 <template>
   <AppMain>
     <h1>White Keyboard</h1>
-    <img src="/img/white-grey-keyboard.jpg" alt="">
+    <nuxt-img src="/img/white-grey-keyboard.jpg"/>
   </AppMain>
 </template>
