@@ -7,7 +7,7 @@
   <AppMain>
     <div class="main">
     <p class="text-3xl">Home Page</p>
-    <NuxtLink to="/keyboard" class="text-xl bg-slate-600 border-2 rounded-md p-2 hover:bg-white hover:text-black"> Shop Keyboards </NuxtLink>
+    <AppButton page="/keyboard" bgColor="bg-slate-600" hoverBg="hover:bg-white" hoverTxt="hover:text-black" content="Shop Keyboards" />
    </div>
   </AppMain>
 
