@@ -5,8 +5,8 @@
 <template>
 
   <AppMain>
-    <div class="main">
-    <p class="text-3xl">Home Page</p>
+    <div class="main flex flex-col items-center gap-20">
+      <p class="text-4xl">Customize your pc today</p>
     <AppButton page="/keyboard" bgColor="bg-slate-600" hoverBg="hover:bg-white" hoverTxt="hover:text-black" content="Shop Keyboards" />
    </div>
   </AppMain>

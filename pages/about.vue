@@ -17,7 +17,7 @@ const members = [{
 </script>
 <template>
   <AppMain>
-    <p class="text-2xl font-bold text-center text-white">About Page</p>
+    <h1 class="text-2xl font-bold text-center text-white p-4">About Page</h1>
     <section class="flex justify-around gap-8 flex-wrap mt-0 mb-8 mx-6 md:max-w-5xl md:my-8 md:mx-auto">
       <AppCard v-for="member in members" :key="member.id" :member="member"/>
     </section>
