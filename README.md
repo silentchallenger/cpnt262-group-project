@@ -4,7 +4,7 @@
 
 ## Roles and Responsibilities
 
-- Darryl Becker: I made and styled the gallery/shop page along with the team page.
+- Darryl Becker: I made and styled the keyboard page along with the individual pages for the keyboard. Helped with some of the styling across the website.
 
 - Rustu Mesut Eser: I did the footer/header and their styling. Also did the about page and its components. Lastly fixed general errors on website.
 
