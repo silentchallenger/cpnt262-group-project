@@ -9,6 +9,7 @@ export default defineNuxtConfig({
           content: "Mechanical Keyboard Site",
         },
       ],
+    
       link: [
         {
           rel: "preconnect",
@@ -25,6 +26,16 @@ export default defineNuxtConfig({
       ],
     },
   },
-  modules: ["@nuxtjs/tailwindcss"],
 
-});
+  modules: ["@nuxtjs/tailwindcss", 
+            '@nuxt/content',
+            'nuxt-icon'], 
+},  
+
+ 
+
+
+);
+
+
+
