@@ -1,42 +1,27 @@
-# Nuxt 3 Minimal Starter
+# Final Project - Multi-page Website
+- Author: DR Shop (Darryl Becker, Rustu Mesut Eser)
+- Live site: [https://cpnt262-group-project.netlify.app/](https://cpnt262-group-project.netlify.app/)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Roles and Responsibilities
 
-## Setup
+- Darryl Becker: I made and styled the gallery/shop page along with the team page.
 
-Make sure to install the dependencies:
+- Rustu Mesut Eser: I did the footer/header and their styling. Also did the about page and its components. Lastly fixed general errors on website.
 
-```bash
-# yarn
-yarn install
+## Attributions
+- [Hamburger Menu Idea)](https://nikakharebava.medium.com/responsive-navbar-menu-vuejs-da330526080e)
+- [CPNT260 Project](https://darbecker12.github.io/cpnt260-final-project/)
 
-# npm
-npm install
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+### Images
+#### Background Images
+- [Home Page Background Image](https://www.shutterstock.com/image-photo/top-view-office-733243111)
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+#### Keyboard Images
+- [Black Keyboard](https://unsplash.com/photos/JALTDvehvAw)
+- [Fish Keyboard](https://unsplash.com/photos/L4Bi4Zfb6Ls)
+- [Blue, Black and Red Keyboard](https://unsplash.com/photos/lL_xP4CEXaY)
+- [RGB Keyboard](https://unsplash.com/photos/50uD7HzOLW8)
+- [Translucent Keyboard](https://unsplash.com/photos/2MCF_5fdcnU)
+- [White Keyboard](https://unsplash.com/photos/jtNUtM0wy5I)
+- [Teal Keyboard](https://unsplash.com/photos/uiSxC_-s7K0)
