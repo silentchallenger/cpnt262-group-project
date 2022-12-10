@@ -1,9 +1,9 @@
+::product-card
 ---
 title: White Keyboard
 description: This is a white keyboard
+price: $100
+imagePath: /img/white-keyboard.jpg
 ---
 
-White Keyboard
-
-Price: $100
-![image](/img/white-keyboard.jpg)
+::

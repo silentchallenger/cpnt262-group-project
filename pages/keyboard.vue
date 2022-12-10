@@ -1,16 +1,18 @@
 <script setup>
-
 </script>
 <template>
   <AppMain>
-    <AppGrid />
+    <AppGrid>
+      <AppContent />
+    </AppGrid>
   </AppMain>
 </template>
 
 <style>
 p img {
-  height: 400px;
-  width: 400px;
+  height: 55%;
+  width: 85%;
+  object-fit: cover;
 }
 
 </style>

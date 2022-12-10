@@ -1,9 +1,9 @@
+::product-card
 ---
 title: Teal Keyboard
 description: This is a teal keyboard
+price: $100
+imagePath: /img/teal-keyboard.jpg
 ---
 
-Teal Keyboard
-
-Price: $100
-![image](/img/teal-keyboard.jpg)
+::
